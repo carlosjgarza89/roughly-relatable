@@ -1,5 +1,5 @@
 # Hello, I am Carlos Garza
-## Data Scientist | Engineer | Problem Solver | Musician | Good Friend
+### Data Scientist | Engineer | Problem Solver
 - Learn more about me at [carlosgarza.io](https://www.carlosgarza.io/).
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/carlosjgarza89/).
-- email me at <carlosjgarza89@gmail.com>.
+- Email me at <carlosjgarza89@gmail.com>.
